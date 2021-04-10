@@ -11,9 +11,9 @@ The Zombie character is from the Kenney.nl "Blocky Characters" kit (https://kenn
 
 Both the sound when picking up the key, and the noise the zombie makes are from Freesound.org.
 
-Key sound = "Coins 1" (https://freesound.org/people/ProjectsU012/sounds/341695/)
+  Key sound = "Coins 1" (https://freesound.org/people/ProjectsU012/sounds/341695/)
 
-Zombie sound = "Zombie Snarl" (https://freesound.org/people/gneube/sounds/315844/)
+  Zombie sound = "Zombie Snarl" (https://freesound.org/people/gneube/sounds/315844/)
   
 The music that plays is Patrickdeartega.com's "Solve The Puzzle" (https://patrickdearteaga.com/royalty-free-music/solve-the-puzzle/)
 
